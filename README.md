@@ -6,4 +6,8 @@ To run this project
 mvn spring-boot:run
 ```
 
+Try
+http://localhost:8080/pies/
+http://localhost:8080/pies/10
+
 Read a full description of this example project at: [http://www.rpi-cloud.com/guide-getting-started-with-spring-boot](http://www.rpi-cloud.com/guide-getting-started-with-spring-boot)
